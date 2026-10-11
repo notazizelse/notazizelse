@@ -7,7 +7,7 @@ Right now I'm the lead electronics engineer for Uzbekistan's Orbita CanSat and I
 #### Boards
 
 - **[CAMP v2](https://github.com/notazizelse/camp)** — the board for my Technocamp 2026 circuitry class. An 80 × 80 mm, all-through-hole Arduino Nano carrier that works like a CubeSat payload computer: temperature, humidity and CO on a screen and over USB. 200 students, ages 12–17.
-- **[WiT](https://github.com/notazizelse/WiT)** — 4-layer STM32 payload board for a 3U stratospheric balloon flight.
+- **[WiT](https://github.com/notazizelse/WiT)** — flight computer for a 3U stratospheric balloon payload: 4-layer STM32F407 board, two radios, seven science missions. Architecture and docs done; schematic in progress.
 - **[Haven PCB badges](https://github.com/notazizelse/haven-pcb-badges)** — die-cut PCB name badges for Haven Tashkent. KiCad 10 project plus a Python script that generates the board art.
 - **[Macropad](https://github.com/notazizelse/macropad)** — a Hack Club macropad: XIAO RP2040, OLED, RGB, KMK firmware.
 - **[STM32 template](https://github.com/notazizelse/stm32_template)** — a Blue Pill (STM32F103C8T6) reference design in KiCad.
